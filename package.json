@@ -26,6 +26,7 @@
     "onchange": "^3.3.0"
   },
   "dependencies": {
+    "all": "0.0.0",
     "init-project": "^1.0.0"
   }
 }
