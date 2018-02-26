@@ -15,7 +15,7 @@
     "build:autoprefixer": "autoprefixer-cli css/style.css",
     "build-dev:sass": "node-sass --output-style expanded --source-map true -o csssass",
 
-    "test:js": "npm install jshint js/*.js"
+    "test:js": "npm run jshint js/*.js"
   },
   "keywords": [],
   "author": "",
